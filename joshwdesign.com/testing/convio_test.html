@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html><head>
+<title>Convio Test</title>
+<meta charset="UTF-8">
+<meta name="description" content="" />
+<script type="text/javascript" src="../../ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript" src="js/prettify.js"></script>                                   <!-- PRETTIFY -->
+<script type="text/javascript" src="js/kickstart.js"></script>                                  <!-- KICKSTART -->
+<link rel="stylesheet" type="text/css" href="css/kickstart.css" media="all" />                  <!-- KICKSTART -->
+<link rel="stylesheet" type="text/css" href="style.css" media="all" />                          <!-- CUSTOM STYLES -->
+<script type="text/javascript">
+$(document).ready(function() {
+	var uri = "https://secure3.convio.net/mjff/site/CRTeamraiserAPI",
+		postdata = "method=getTopParticipantsData&v=1.0&api_key=MJFFAPI&fr_id=1290";
+	
+	function makeJqueryRequest() {
+	  $.post(uri, postdata, function(data, textStatus, jqxhr){
+	     console.log(data);
+	     alert("The data is:" + data)
+	     // console.log(textStatus);
+	     // console.log(jqxhr);
+	  });
+	};
+	
+	$(".getConvio").click(function() {
+	    return makeJqueryRequest();
+    });
+
+ });
+</script>
+</head><body><a id="top-of-page"></a><div id="wrap" class="clearfix">
+
+<!-- ===================================== END HEADER ===================================== -->
+
+
+	<!-- 
+	
+		ADD YOUR HTML ELEMENTS HERE
+		
+		Example: 2 Columns
+	 -->
+
+	<div class="col_12">
+	
+	<p><a href="convio_test.html#" class="getConvio button"><span class="icon gray small" data-icon="("></span> Get Data</a></p>
+	<div id="displayData"></div>
+	</div>
+	
+	<div class="col_12">
+		<form method="POST" action="http://www2.michaeljfox.org/site/Survey">
+<input type="hidden" name="cons_info_component" id="cons_info_component" value="t" />
+<input type="text" name="cons_email" id="cons_email" value="" size="45" maxlength="255" />
+<div style="display:none">
+<label for="denySubmit">Spam Control Text:</label>&nbsp;
+<input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts." />&nbsp;Please leave this field empty
+</div>	
+<input type="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit Survey" class="Button" onsubmit="return false"/>
+<input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="2441" />
+</form>
+	</div>
+
+<!-- ===================================== START FOOTER ===================================== -->
+</div>
+
+</div><!-- END WRAP -->
+</body></html>

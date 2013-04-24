@@ -1,0 +1,1278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"funct",
+				"function_exists"
+			],
+			[
+				"comm",
+				"comm-subsection	Comment - Subsection comment"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "joshwdesign.com/testing/convio_test.html",
+			"settings":
+			{
+				"buffer_size": 2669,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/builds/PHP.sublime-build",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"snippet comment",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"svncommit",
+				"SVN: Commit…"
+			],
+			[
+				"svn com",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn commit",
+				"SVN: (File) Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"open browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy path ",
+				"File: Copy Path From Project"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"tasks new do",
+				"Tasks: New document"
+			],
+			[
+				"snip html goo",
+				"Snippet: HTML - Google Analytics"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"fetch pa",
+				"Fetch: Package"
+			],
+			[
+				"fetch file",
+				"Fetch: File"
+			],
+			[
+				"fetch	",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"snippet js ran	",
+				"Snippet: JS - Random number"
+			],
+			[
+				"comment",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"snippet html jquery",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"snippet: html",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"snippet Css ",
+				"Snippet: CSS - cursor: pointer;"
+			],
+			[
+				"snippet",
+				"Snippet: CSS - :after"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet if	",
+				"Snippet: <?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"syntx javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle",
+				"View: Toggle Minimap"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax: java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/sql/update-2012-04-24.sql",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/sql/update-2013-04-24.sql",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/update-2013-04-24.sql",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/events/index.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/util/functions.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/include/top.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/support-a-fundraiser.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/get-involved/clinical-trial.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/teamfox.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/include/bottom.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/index.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/js/app.js",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/foxtrialfinder.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/events.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/teamfox-signup.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/foxtrialfinder-signup.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/newsletter-mobile.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/js/calendar.js",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/blog.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/researchers.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/css/mobilecustom.css",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/js/calendar.js",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/blog-detail.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/include/getinvolved.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/get-involved/support-participant.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/css/jquery.mobile-1.3.1.min.css",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/js/jquery-1.9.1.min.js",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/js/jquery.mobile-1.3.1.min.js",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/page.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/pagemobile.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/donation-mobile.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/css/jquery.mobile.min.css",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/js/jquery.mobile.min-1.3.1.min.js",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/js/jquery.mobile.min.js",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/public.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/test2.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/test.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/test-mobile.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/css/jquery.mobile-1.3.1.css",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/css/jquer.mobile-1.3.1.css",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/test.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/conf.d/common/rewrite.conf",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/research/priority-area-detail.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/priority-area-mobiledetail.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/eventstest.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/css/mjff.css",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/news-tags.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/blogtopics.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/role_impact.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/news.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/news-tags.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/blogtest.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/blog-detail-test.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/news-detail-mobile.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/news-detail.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/news-detail.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/analyticstracking.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/functions.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/news-mobile.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/cms/include/CMML_PublicAPI.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/cms/include/Common/image.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/cms/include/Common/DB.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/cms/include/Common/form.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/cms/doc/cms/Common/_Common---DB.php.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/topic.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foxtrialfinder/css/fonts.css",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foxtrialfinder/css/fonts.css.orig",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/css/gibson-regular-webfont.svg",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/conf.d/mjff-com.conf",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/lang.de.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/lang.en.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/lang.it.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/lang.es.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/lang.fr.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foxtrialfinder/index.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/chromePHP.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foundation/career.html",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foxtrialfinder/include_splash/internationaldropdown.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/include/common.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/foxtrialfinder/include_splash/functions.php",
+		"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/css/mjff_custom.css",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/get-involved/smellsurvey.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/js/smellsurvey.js",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/understanding-parkinsons/living-with-pd/topic.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/get-involved/clinical-trial.html",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/css/smellsurvey.css",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/get-involved/smellsurvey-screen.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/get-involved/whatyousmell.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/get-involved/smellsurvey-ads-screen.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/conf-bkup-09052012/mjff-com.conf",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/css/mjff.css",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/mjff-repo.sublime-project",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/SVN/SVN.sublime-settings",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/foxtrialfinder/include/lang.en.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/foxtrialfinder/include/common.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/include/common.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/foxtrialfinder/index.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/include/page.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/research/apply-for-grant.html",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/foxtrialfinder.php",
+		"/var/folders/bk/nh11t04d3jj_1psmhzrxp41m0000gn/T/sublime-svn-1365198927/SVN",
+		"/var/folders/bk/nh11t04d3jj_1psmhzrxp41m0000gn/T/sublime-svn-1365193441/SVN",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/get-involved/support-participant.html",
+		"/var/folders/bk/nh11t04d3jj_1psmhzrxp41m0000gn/T/sublime-svn-1365174808/SVN",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/mobile/index.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/joshTestPage.html",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/test.php",
+		"/var/folders/bk/nh11t04d3jj_1psmhzrxp41m0000gn/T/sublime-svn-1365103534/SVN",
+		"/var/folders/bk/nh11t04d3jj_1psmhzrxp41m0000gn/T/sublime-svn-1365103254/SVN",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/index_test.php",
+		"/Users/michaelwenger/Documents/MJFF REPO Container/MJFF REPO/htdocs/index.php",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/test1.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/testtest.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test.html",
+		"/Users/michaelwenger/Google Drive/www/sandbox/sandbox.sublime-project",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/test2.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/test.conf",
+		"/Users/michaelwenger/Google Drive/www/sandbox/javascript/test.js",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/builds/PHP.sublime-build",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/User/builds/PHP-Lint.sublime-build",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test2.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/php/javascript/test.js",
+		"/Users/michaelwenger/Google Drive/www/sandbox/css/main.css",
+		"/Users/michaelwenger/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test1.php",
+		"/Users/michaelwenger/Google Drive/www/sandbox/test.css",
+		"/Users/michaelwenger/Google Drive/www/sandbox/my-class.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/css/jquery.mobile-1.3.1.min.css",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/css/",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile/",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3",
+			"/Users/michaelwenger/Documents/MJFF REPO3 Container/MJFF REPO3/htdocs/mobile",
+			"<project>",
+			"",
+			"Q",
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"PPMI_EMAIL_ADDRESS",
+			"$CONFIG['PPMI_EMAIL_ADDRESS']",
+			"ftfSignup",
+			"newsletterSignupForm",
+			"ftfSignUp",
+			"newsletterSubmitButton",
+			"submissionFtfMessage",
+			"submissionNewsletterMessage",
+			"submissionTeamfoxMessage",
+			"Teamfox",
+			"teamfoxFormSignup",
+			"ftfSignUp",
+			"teamfoxSignUp",
+			"ftfSignup",
+			"cookie",
+			"$records",
+			"$state",
+			"state",
+			"'state",
+			"state",
+			"SESSION",
+			"session",
+			"getEventsPageMobile",
+			"getMobileNewsPage",
+			"totaltime",
+			"getAllEventsMobile",
+			"pageSize",
+			"getAllEventsMobile",
+			"getNewsMobile",
+			"getMobileNewsPage",
+			"getAllEventsMobile",
+			"getNewsMobile",
+			"define global",
+			"global \\$db",
+			"global $db",
+			"global $db;",
+			"getMobileNewsPage",
+			"SESSION",
+			"session",
+			"loadMoreContainer",
+			"countryDropDown",
+			"#country",
+			"#state",
+			"id=\"state",
+			"alert",
+			"<form ",
+			"form",
+			"href",
+			"priority-area-detail",
+			"alpha-synuclein",
+			"alpha",
+			"#",
+			"refresh",
+			"fundraiserType",
+			"participantForm",
+			"form[name=\"participantForm",
+			"$('form[name=\"participantForm\"]').show();",
+			"pagebefore",
+			"div",
+			"</div>\n				<p style=\"display:none;\"> <input name=\"searchEvent\" value=\"true\" type=\"text\" /> </p>\n				<input type=\"submit\" value=\"Submit\" data-theme=\"a\" style=\"margin-bottom:2em;\"/>",
+			"$participants",
+			"participants",
+			"sign up for ",
+			"type",
+			"data-prefetch",
+			"prefetch",
+			"donation-mobile.php",
+			"font-family:",
+			"font-family:Helvetica,Arial,sans-serif",
+			"font-family:",
+			"font-family:Helvetica,Arial,sans-serif",
+			"font-family",
+			"$_SESSION['eventRecords']",
+			"session",
+			"SESSION",
+			"session",
+			"SESSION",
+			"session",
+			"_SESSION",
+			"getRow",
+			"session",
+			"SESSION",
+			"session",
+			"pageSize",
+			"session",
+			"getEventsPage",
+			"load-more",
+			"require_once",
+			"dropDownStatus",
+			"getUrlVar",
+			"No records were found matching your search.",
+			"were",
+			"ctr",
+			"resultInstruction",
+			"fundraiserType",
+			"stateCalendarDropdown",
+			"selectState",
+			"datepicker",
+			"CalendarDropdown",
+			"@TODO",
+			"getAllEventsMobile",
+			"getAllEvents",
+			"getEventsPage",
+			"getAllEvents",
+			"getEventsPage",
+			"findit",
+			"form",
+			"getAllEvents",
+			"createDropDownOptions",
+			"checkLoadValue",
+			"checkValue",
+			"cms",
+			"topics",
+			"blogtopics",
+			"tagCloud",
+			"Mobile",
+			"mobile",
+			"MobileNews",
+			"mobilenews",
+			"111",
+			"\"#comingsoon\"",
+			"comingsoon",
+			"mik",
+			"comingsoon",
+			"data-rel=\"popup\" data-transition=\"slidedown\" data-position-to=\"window\"",
+			"mobile",
+			"video-container",
+			"blog-detail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"font-family:'GibsonRegular',Helvetica,Arial,sans-serif",
+			"&mdash;",
+			"'",
+			"&mdash;",
+			"'",
+			"replacement"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "joshwdesign.com/testing/convio_test.html",
+					"settings":
+					{
+						"buffer_size": 2669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"api",
+				"htdocs/convioApiTest.html"
+			],
+			[
+				"ppmi",
+				"htdocs/get-involved/ppmi-call-center-form.html"
+			],
+			[
+				"newslet",
+				"htdocs/mobile/newsletter-mobile.php"
+			],
+			[
+				"teamfox",
+				"htdocs/mobile/teamfox-signup.php"
+			],
+			[
+				"foxtria",
+				"htdocs/mobile/foxtrialfinder-signup.php"
+			],
+			[
+				"foxtrialfinder",
+				"htdocs/mobile/foxtrialfinder.php"
+			],
+			[
+				"app.js",
+				"htdocs/mobile/js/app.js"
+			],
+			[
+				"teamfox.",
+				"htdocs/mobile/teamfox.php"
+			],
+			[
+				"clinical",
+				"htdocs/get-involved/clinical-trial.html"
+			],
+			[
+				"mobile/support",
+				"htdocs/mobile/support-a-fundraiser.php"
+			],
+			[
+				"top.php",
+				"htdocs/mobile/include/top.php"
+			],
+			[
+				"bottom.",
+				"htdocs/mobile/include/bottom.php"
+			],
+			[
+				"mobile/index",
+				"htdocs/mobile/index.php"
+			],
+			[
+				"util/function",
+				"htdocs/util/functions.php"
+			],
+			[
+				"events/index.html",
+				"htdocs/foundation/events/index.html"
+			],
+			[
+				"mobile/calendar",
+				"htdocs/mobile/js/calendar.js"
+			],
+			[
+				"calendar.js",
+				"htdocs/js/calendar.js"
+			],
+			[
+				"calendar",
+				"htdocs/js/calendar.js"
+			],
+			[
+				"events.php",
+				"htdocs/mobile/events.php"
+			],
+			[
+				"blog.php",
+				"htdocs/mobile/blog.php"
+			],
+			[
+				"resea",
+				"htdocs/mobile/researchers.php"
+			],
+			[
+				"customcss",
+				"htdocs/mobile/css/mobilecustom.css"
+			],
+			[
+				"support",
+				"htdocs/get-involved/support-participant.html"
+			],
+			[
+				"bottom",
+				"htdocs/mobile/include/bottom.php"
+			],
+			[
+				"mobile/blog",
+				"htdocs/mobile/blog-detail.php"
+			],
+			[
+				"mobilecal",
+				"htdocs/mobile/js/calendar.js"
+			],
+			[
+				"mobile/top",
+				"htdocs/mobile/include/top.php"
+			],
+			[
+				"mobile/teamfox",
+				"htdocs/mobile/teamfox.php"
+			],
+			[
+				"mobile/supp",
+				"htdocs/mobile/support-a-fundraiser.php"
+			],
+			[
+				"mobile/events",
+				"htdocs/mobile/events.php"
+			],
+			[
+				"mobile/js",
+				"htdocs/mobile/js/app.js"
+			],
+			[
+				"mobile/css",
+				"htdocs/mobile/css/mobilecustom.css"
+			],
+			[
+				"page.php",
+				"include/page.php"
+			],
+			[
+				"pagemobile",
+				"include/pagemobile.php"
+			],
+			[
+				"mobile/inde",
+				"htdocs/mobile/index.php"
+			],
+			[
+				"mobile/donation",
+				"htdocs/mobile/donation-mobile.php"
+			],
+			[
+				"app",
+				"htdocs/mobile/js/app.js"
+			],
+			[
+				"mobilecust",
+				"htdocs/mobile/css/mobilecustom.css"
+			],
+			[
+				"util/func",
+				"htdocs/util/functions.php"
+			],
+			[
+				"events/index",
+				"htdocs/foundation/events/index.html"
+			],
+			[
+				"mobilecustom",
+				"htdocs/mobile/css/mobilecustom.css"
+			],
+			[
+				"page",
+				"include/pagemobile.php"
+			],
+			[
+				"public.php",
+				"include/public.php"
+			],
+			[
+				"mobile/blog-",
+				"htdocs/mobile/blog-detail.php"
+			],
+			[
+				"blog",
+				"htdocs/mobile/blog.php"
+			],
+			[
+				"mobile/ind",
+				"htdocs/mobile/index.php"
+			],
+			[
+				"support-par",
+				"htdocs/get-involved/support-participant.html"
+			],
+			[
+				"priorityareadetai",
+				"htdocs/research/priority-area-detail.php"
+			],
+			[
+				"mobiledonate",
+				"htdocs/mobile/donation-mobile.php"
+			],
+			[
+				"newsletter",
+				"htdocs/mobile/newsletter-mobile.php"
+			],
+			[
+				"foxtri",
+				"htdocs/mobile/foxtrialfinder-signup.php"
+			],
+			[
+				"foxtrialf",
+				"htdocs/mobile/foxtrialfinder.php"
+			],
+			[
+				"mobilecss",
+				"htdocs/mobile/css/mobilecustom.css"
+			],
+			[
+				"mjff.css",
+				"htdocs/css/mjff.css"
+			],
+			[
+				"mobile/js/",
+				"htdocs/mobile/js/app.js"
+			],
+			[
+				"js/cal",
+				"htdocs/mobile/js/calendar.js"
+			],
+			[
+				"js/calendar",
+				"htdocs/js/calendar.js"
+			],
+			[
+				"functions",
+				"htdocs/util/functions.php"
+			],
+			[
+				"events/index.",
+				"htdocs/foundation/events/index.html"
+			],
+			[
+				"mobileindex",
+				"htdocs/mobile/index.php"
+			],
+			[
+				"mobile/d",
+				"htdocs/mobile/donation-mobile.php"
+			],
+			[
+				"mobilecus",
+				"htdocs/mobile/css/mobilecustom.css"
+			],
+			[
+				"news-tags",
+				"htdocs/mobile/news-tags.php"
+			],
+			[
+				"blogtopics",
+				"htdocs/mobile/blogtopics.php"
+			],
+			[
+				"role",
+				"htdocs/mobile/role_impact.php"
+			],
+			[
+				"blog-",
+				"htdocs/mobile/blog-detail-test.php"
+			],
+			[
+				"blogtest",
+				"htdocs/mobile/blogtest.php"
+			],
+			[
+				"foxtrial",
+				"htdocs/mobile/foxtrialfinder.php"
+			],
+			[
+				"mobile/include",
+				"htdocs/mobile/include/getinvolved.php"
+			],
+			[
+				"news-detail.php",
+				"htdocs/foundation/news-detail.php"
+			],
+			[
+				"news-",
+				"htdocs/foundation/news-detail.html"
+			],
+			[
+				"mobile/",
+				"htdocs/mobile/blog-detail.php"
+			],
+			[
+				"blog-detail",
+				"htdocs/mobile/blog-detail-test.php"
+			],
+			[
+				"news-mobile",
+				"htdocs/foundation/news-detail-mobile.php"
+			],
+			[
+				"mobile/indx",
+				"htdocs/mobile/index.php"
+			],
+			[
+				"function",
+				"include/functions.php"
+			],
+			[
+				"bottom.php",
+				"htdocs/mobile/include/bottom.php"
+			],
+			[
+				"analytics",
+				"include/analyticstracking.php"
+			],
+			[
+				"pagemobile.php",
+				"include/pagemobile.php"
+			],
+			[
+				"-mobile",
+				"htdocs/foundation/news-mobile.html"
+			],
+			[
+				"image.php",
+				"htdocs/cms/include/Common/image.php"
+			],
+			[
+				"form.php",
+				"htdocs/cms/include/Common/form.php"
+			],
+			[
+				"db.php",
+				"htdocs/cms/include/Common/DB.php"
+			],
+			[
+				"commondb",
+				"htdocs/cms/doc/cms/Common/_Common---DB.php.html"
+			],
+			[
+				"cmmlpublic",
+				"htdocs/cms/include/CMML_PublicAPI.php"
+			],
+			[
+				"news.html",
+				"htdocs/foundation/news.html"
+			],
+			[
+				"blo.php",
+				"htdocs/mobile/blog.php"
+			],
+			[
+				"gibson-regul",
+				"htdocs/css/gibson-regular-webfont.svg"
+			],
+			[
+				"font",
+				"htdocs/foxtrialfinder/css/fonts.css.orig"
+			],
+			[
+				"mjff",
+				"conf.d/mjff-com.conf"
+			],
+			[
+				"lang.de",
+				"include/lang.de.php"
+			],
+			[
+				"lang.es",
+				"include/lang.es.php"
+			],
+			[
+				"lang.it",
+				"include/lang.it.php"
+			],
+			[
+				"lang.en.php",
+				"include/lang.en.php"
+			],
+			[
+				"lang.de.php",
+				"include/lang.de.php"
+			],
+			[
+				"foxtrialfinindex",
+				"htdocs/foxtrialfinder/index.php"
+			],
+			[
+				"lang.fr.php",
+				"include/lang.fr.php"
+			],
+			[
+				"lang.fr",
+				"include/lang.fr.php"
+			],
+			[
+				"foxtrialfinder/index.php",
+				"htdocs/foxtrialfinder/index.php"
+			],
+			[
+				"lang.it.php",
+				"include/lang.it.php"
+			],
+			[
+				"chromephp",
+				"include/chromePHP.php"
+			],
+			[
+				"test.php",
+				"htdocs/test.php"
+			],
+			[
+				"career",
+				"htdocs/foundation/career.html"
+			],
+			[
+				"include/common",
+				"include/common.php"
+			],
+			[
+				"custom",
+				"htdocs/css/mjff_custom.css"
+			],
+			[
+				"smellsurvey.js",
+				"htdocs/js/smellsurvey.js"
+			],
+			[
+				"smellsurvey",
+				"htdocs/get-involved/smellsurvey.php"
+			],
+			[
+				"smell",
+				"htdocs/css/smellsurvey.css"
+			],
+			[
+				"topic.",
+				"htdocs/understanding-parkinsons/living-with-pd/topic.php"
+			],
+			[
+				"mjff-com",
+				"htdocs/conf-bkup-09052012/mjff-com.conf"
+			],
+			[
+				"screen",
+				"htdocs/get-involved/smellsurvey-ads-screen.php"
+			],
+			[
+				"whatyo",
+				"htdocs/get-involved/whatyousmell.php"
+			],
+			[
+				"topic.php",
+				"htdocs/understanding-parkinsons/living-with-pd/topic.php"
+			],
+			[
+				"apply",
+				"htdocs/research/apply-for-grant.html"
+			],
+			[
+				"mobileindex.php",
+				"htdocs/mobile/index.php"
+			],
+			[
+				"josh",
+				"htdocs/joshTestPage.html"
+			],
+			[
+				"test1.php",
+				"php/test1.php"
+			],
+			[
+				"test1",
+				"php/test1.php"
+			],
+			[
+				"test2",
+				"php/test2.php"
+			],
+			[
+				"test",
+				"php/test1.php"
+			],
+			[
+				"test.c",
+				"test.css"
+			],
+			[
+				"style.css",
+				"htdocs/cms/css/style.css"
+			],
+			[
+				".css",
+				"htdocs/css/main.css"
+			],
+			[
+				"cms.css",
+				"htdocs/cms/js/tiny_mce/plugins/searchreplace/css/searchreplace.css"
+			],
+			[
+				"smellsurvey.php",
+				"htdocs/get-involved/smellsurvey.php"
+			],
+			[
+				"functions.php",
+				"php/strings_arrays_cookies_sessions_functions_classes.php"
+			],
+			[
+				"php/files",
+				"php/include/files.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/michaelwenger/Google Drive/www/mjffmobile/mjffmobile.sublime-project"
+			],
+			[
+				"sub",
+				"/Users/michaelwenger/Google Drive/www/ftfonthego/ftfonthego.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true
+}
