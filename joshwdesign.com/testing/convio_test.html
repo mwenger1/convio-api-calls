@@ -11,6 +11,9 @@
 
 <script type="text/javascript">
 $(document).ready(function() {
+	/*==============================================
+	=            CALLING TEAMRAISER API            =
+	==============================================*/
 	var uri = "https://secure3.convio.net/mjff/site/CRTeamraiserAPI",
 		postdata = "method=getTopParticipantsData&v=1.0&api_key=MJFFAPI&fr_id=1290";
 	
@@ -30,35 +33,132 @@ $(document).ready(function() {
 </script>
 </head><body><a id="top-of-page"></a><div id="wrap" class="clearfix">
 
-<!-- ===================================== END HEADER ===================================== -->
 
-
-	<!-- 
-	
-		ADD YOUR HTML ELEMENTS HERE
-		
-		Example: 2 Columns
-	 -->
-
-	<div class="col_12">
-	
+	<h1>Get teamraiser data</h1>
 	<input type="button"  class="getConvio button" value="Get Data" />
 	<div id="displayData"></div>
-	</div>
 	
-	<div class="col_12">
-		<form method="POST" action="http://www2.michaeljfox.org/site/Survey">
-<input type="hidden" name="cons_info_component" id="cons_info_component" value="t" />
-<input type="text" name="cons_email" id="cons_email" value="" size="45" maxlength="255" />
+	<h1>Submit email to survey</h1>
+<form method="POST" action="http://www2.michaeljfox.org/site/Survey">
+<div class="appArea">
+	
+
+
+
+<h3 class="ObjTitle">MOBILE - Email Signup</h3>
+<p></p>
+ 
+</div>
+<div class="appArea">
+<table width="100%" border="0" cellspacing="4" cellpadding="0">
+<tbody><tr valign="top" class="old-school">
+
+
+
+<td width="5%" class="req" align="right" nowrap="nowrap">
+&nbsp;
+</td>
+
+
+<td>
+<span class="Explicit">What is your email?</span><br>
+
+
+<table border="0" cellspacing="4" cellpadding="0">
+<tbody><tr style="position:absolute;left:-9999px">
+<td colspan="3">
+<input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
+</td>
+</tr>
+
+
+
+
+<tr>
+<td width="1%">
+
+<p>*</p>
+
+</td>
+<td nowrap="nowrap">
+<p><label for="cons_email">Email: <span style="position:absolute;left:-9999px">Required</span></label></p>
+</td>
+<td>
+<input type="text" name="cons_email" id="cons_email" value="test1@gmail.com" size="45" maxlength="255">
+</td>
+</tr>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+
+
+
+
+<br>
+</td>
+
+</tr>
+<tr valign="top" class="old-school">
+
+
+<input type="hidden" name="3953_2641_2_2941" id="3953_2641_2_2941_1" value="1401">
+
+
+</tr>
+
+</tbody></table>
+</div>
+<div class="appArea">
+
+
+
+
+</div>
+
 <div style="display:none">
 <label for="denySubmit">Spam Control Text:</label>&nbsp;
-<input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts." />&nbsp;Please leave this field empty
+<input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts.">&nbsp;Please leave this field empty
 </div>	
-<input type="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit Survey" class="Button" onsubmit="return false"/>
-<input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="2441" />
-</form>
-	</div>
+	
+<div class="appArea">
+<p>
+<input type="submit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit Survey" class="Button">&nbsp;&nbsp;
+<input type="reset" name="reset" id="reset" value="Reset Answers" class="Button">&nbsp;&nbsp;
+<input type="submit" name="ACTION_CANCEL_RESPONSE_SUBMIT" id="ACTION_CANCEL_RESPONSE_SUBMIT" value="Skip Survey" class="Button">
+</p>
+</div>
 
+<input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="2641">
+
+</form>
 <!-- ===================================== START FOOTER ===================================== -->
 </div>
 
