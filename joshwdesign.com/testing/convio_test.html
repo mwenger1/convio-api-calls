@@ -16,7 +16,7 @@ $(document).ready(function() {
 	http://open.convio.com/api/#teamraiser_api.getTopParticipantsData_method.html
 	==============================================*/
 	var uri = "https://secure3.convio.net/mjff/site/CRTeamraiserAPI",
-		postdata = "method=getTopParticipantsData&v=1.0&api_key=MJFFAPI&fr_id=1290";
+		postdata = "method=getTopParticipantsData&v=1.0&api_key=MJFFAPI&fr_id=1290&response_format=json";
 	
 	function makeJqueryRequest() {
 	  $.post(uri, postdata, function(data, textStatus, jqxhr){
