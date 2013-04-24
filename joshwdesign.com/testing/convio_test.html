@@ -21,9 +21,8 @@ $(document).ready(function() {
 	function makeJqueryRequest() {
 	  $.post(uri, postdata, function(data, textStatus, jqxhr){
 	     console.log(data);
-	     alert("The data is:" + data)
-	     // console.log(textStatus);
-	     // console.log(jqxhr);
+	     console.log(textStatus);
+	     console.log(jqxhr);
 	  });
 	};
 	
