@@ -32,11 +32,26 @@ $(document).ready(function() {
 
 
 	/*==============================================
+	=            SUBMIT SURVEY VIA RFI PAGE            =
+	==============================================*/
+
+	function submitEmailRFI(){
+		$.ajax({url:"https://www.michaeljfox.org/util/signup-newsletter.php?email=test6@gmail.com&type=mobile",
+			success:function(result){
+		alert('submission worked');
+		}}); 
+	};
+	$('#rfiSubmission').on('click',function(){
+		return submitEmailRFI();
+	});
+
+
+	/*==============================================
 	=            SUBMIT SURVEY API            =
 	http://open.convio.com/api/#survey_api.submitSurvey_method.html
 	==============================================*/
 	var uri2 = "https://secure3.convio.net/mjff/site/CRSurveyAPI",
-		postdata2 = "method=submitSurvey&v=1.0&api_key=MJFFAPI&survey_id=2641";
+		postdata2 = "method=submitSurvey&v=1.0&api_key=MJFFAPI&survey_id=2641&response_format=json&auth=value&sso_auth_token=value";
 
     function makeJquerySubmission() {
 	  $.post(uri2, postdata2, function(data, textStatus, jqxhr){
@@ -58,6 +73,13 @@ $(document).ready(function() {
 	<h1>Get teamraiser data</h1>
 	<input type="button"  class="getConvio button" value="Get Data" />
 	<div id="displayData"></div>
+
+	<hr>
+	<h1>RFI Form Submission</h1>
+	<form>
+		<input type="submit" value="Submit" id="rfiSubmission" />
+	</form>
+
 
 	<hr>
 	<h1>Ajax Form Submission</h1>
