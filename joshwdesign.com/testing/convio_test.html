@@ -29,6 +29,21 @@ $(document).ready(function() {
 	    return makeJqueryRequest();
     });
 
+	var uri2 = "http://www2.michaeljfox.org/site/Survey",
+		postdata2 = "method=submitSurvey&v=1.0&api_key=MJFFAPI&survey_id=2641";
+
+    function makeJquerySubmission() {
+	  $.post(uri2, postdata2, function(data, textStatus, jqxhr){
+	     console.log(data);
+	     // console.log(textStatus);
+	     // console.log(jqxhr);
+	  });
+	};
+	$('#ajaxSubmission').on('click',function(){
+		return makeJquerySubmission();
+	});
+
+
  });
 </script>
 </head><body><a id="top-of-page"></a><div id="wrap" class="clearfix">
@@ -42,10 +57,10 @@ $(document).ready(function() {
 	<h1>Ajax Form Submission</h1>
 	<form>
 		<input type="email" placeholder="Email Address" />
-		<input type="submit" value="Submit" />
+		<input type="submit" value="Submit" id="ajaxSubmission" />
 	</form>
 
-	
+
 	<hr>
 	<h1>Submit email to survey - Scraped Method</h1>
 <form method="POST" action="http://www2.michaeljfox.org/site/Survey">
@@ -96,41 +111,7 @@ $(document).ready(function() {
 <input type="text" name="cons_email" id="cons_email" value="test1@gmail.com" size="45" maxlength="255">
 </td>
 </tr>
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </tbody></table>
-
-
-
-
 <br>
 </td>
 
